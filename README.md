@@ -1,6 +1,6 @@
 # Data Analyst
 
-###Skills: 
+### Skills: 
 **Languages:** Python, SQL, R
 **Visualization:** Tableau
 **Databases:** BigQuery

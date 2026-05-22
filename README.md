@@ -1,17 +1,17 @@
 # Data Analyst
 
 ###### Skills: 
-* **Languages:** Python, SQL, R
-* **Visualization:** Tableau
+* **Languages:** SQL, Python, R
+* **Visualization:** Power BI, Tableau
 * **Databases:** BigQuery
 * **Tools:** Excel, Google Sheets, Power Point
-* **Data Analysis:** Data Cleaning, Data Validation, Analysis and Recognition of Patterns and Trends, Data Visualization, Data Storytelling
+* **Data Analysis:** ETL, Data Cleaning, Data Validation, Analysis and Recognition of Patterns and Trends, Data Visualization, Data Storytelling
 
 ###### Languages
 
 * **Portuguese:** native
-* **English:** understands, speaks, writes, and reads very well
-* **Spanish:** understands very well, speaks well, writes well, and reads very well
+* **English:** fluent
+* **Spanish:** fluent
 
 
 ### Education
